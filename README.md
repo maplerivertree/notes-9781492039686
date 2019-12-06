@@ -1,1 +1,1 @@
-The accompanying codes only applicable to existing infrustracture QCEngine.
+The accompanying codes are  only applicable to existing infrustracture QCEngine.
