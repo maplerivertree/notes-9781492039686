@@ -1,1 +1,2 @@
-The accompanying codes are  only applicable to existing infrustracture QCEngine.
+The accompanying codes are functional on to existing infrustracture such as QCEngine.
+They're claimed to funcion on QPC hardware - never tried.
