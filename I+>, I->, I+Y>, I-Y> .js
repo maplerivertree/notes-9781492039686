@@ -19,7 +19,6 @@ qc.phase(90)
 
 
 //    |-Y>
-
 qc.reset(1);
 qc.write(0)
 qc.had();
