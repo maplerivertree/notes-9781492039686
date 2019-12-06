@@ -1,5 +1,6 @@
 /// ---- rotating leftward
 
+
 //    |+>
 qc.reset(1);
 qc.write(0)
