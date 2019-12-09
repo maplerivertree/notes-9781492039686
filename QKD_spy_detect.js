@@ -71,6 +71,7 @@ qc.nop();
 qc.label('');
 qc.nop();
 
+
 // Now Alice emails Bob to tell
 // him her had setting and value.
 // If the had setting matches and the
